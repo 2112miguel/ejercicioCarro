@@ -167,9 +167,7 @@ const prepararVenta = (carro)=>{
     console.log("El carro esta preparando para enviar a la agencia")
 }
 
-//console.log(carro1)
 construirChasis(carro1, "Rojo");
 prepararVenta(carro1);
 llevarAgencia(carro1);
 recibirAgencia(carro1);
-//llevarAgencia(carro1)
